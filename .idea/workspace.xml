@@ -1,24 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="40817834-4346-4098-8802-e5d4b74ee196" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public_html/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/public_html/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public_html/checkout.html" beforeDir="false" afterPath="$PROJECT_DIR$/public_html/checkout.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public_html/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/public_html/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public_html/faqs.html" beforeDir="false" afterPath="$PROJECT_DIR$/public_html/faqs.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public_html/help.html" beforeDir="false" afterPath="$PROJECT_DIR$/public_html/help.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public_html/icons.html" beforeDir="false" afterPath="$PROJECT_DIR$/public_html/icons.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public_html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public_html/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public_html/payment.html" beforeDir="false" afterPath="$PROJECT_DIR$/public_html/payment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public_html/privacy.html" beforeDir="false" afterPath="$PROJECT_DIR$/public_html/privacy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public_html/product.html" beforeDir="false" afterPath="$PROJECT_DIR$/public_html/product.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public_html/product2.html" beforeDir="false" afterPath="$PROJECT_DIR$/public_html/product2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public_html/single.html" beforeDir="false" afterPath="$PROJECT_DIR$/public_html/single.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public_html/single2.html" beforeDir="false" afterPath="$PROJECT_DIR$/public_html/single2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public_html/terms.html" beforeDir="false" afterPath="$PROJECT_DIR$/public_html/terms.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public_html/typography.html" beforeDir="false" afterPath="$PROJECT_DIR$/public_html/typography.html" afterDir="false" />
-    </list>
+    <list default="true" id="40817834-4346-4098-8802-e5d4b74ee196" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -151,7 +134,7 @@
         <entry file="file://$PROJECT_DIR$/public_html/about.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="23">
-              <caret line="248" column="37" selection-start-line="248" selection-start-column="37" selection-end-line="248" selection-end-column="37" />
+              <caret line="1" column="17" lean-forward="true" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -213,7 +196,7 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="935" />
     <option name="y" value="32" />
     <option name="width" value="905" />
@@ -283,15 +266,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1539277744389</updated>
-      <workItem from="1539277751553" duration="11075000" />
+      <workItem from="1539277751553" duration="12510000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11075000" />
+    <option name="totallyTimeSpent" value="12510000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Gulp" side_tool="true" />
@@ -436,7 +419,7 @@
     <entry file="file://$PROJECT_DIR$/public_html/about.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
-          <caret line="248" column="37" selection-start-line="248" selection-start-column="37" selection-end-line="248" selection-end-column="37" />
+          <caret line="1" column="17" lean-forward="true" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
         </state>
       </provider>
     </entry>
