@@ -611,10 +611,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
 			// Count the number of each item in the cart
 			for (i = 0; i < len; i++) {
-				total += items[i].get('quantity');
+				//total += items[i].get('quantity');
+                total += items[i].get('price');
 			}
 
-			if (total < 3) {
+			if (total < 16) {
 				alert('The minimum order quantity is 3. Please add more to your shopping cart before checking out');
 				evt.preventDefault();
 			}
